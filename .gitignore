@@ -1,0 +1,8 @@
+# Object Files #
+*.o
+
+# Dynamic Libs #
+*.dll
+
+# Executables #
+*.exe
